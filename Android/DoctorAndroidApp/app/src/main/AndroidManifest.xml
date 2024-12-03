@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.vidya.navigationdrawer">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".ImageViewActivity"></activity>
+        <activity android:name=".DoctorsdetailsView" />
+        <activity android:name=".ui.login.LoginData" />
+        <activity android:name=".PasswordReset" />
+        <activity android:name=".ForgotPasswordEmailreset" />
+
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <activity android:name=".MainActivity" />
+        <activity android:name=".TestingActivity" />
+        <activity android:name=".ScrollingActivity" />
+        <activity android:name=".RegisterUser" />
+        <activity
+            android:name=".SplashActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".chatapponetone.StartActivity"></activity>
+        <activity android:name=".OTPvalidationUser"></activity>
+        <activity
+            android:name=".chatapponetone.RegisterChatActivity"
+            android:parentActivityName=".chatapponetone.StartActivity"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity android:name=".chatapponetone.MainChatActivity" />
+        <activity
+            android:name=".chatapponetone.LoginChatActivity"
+            android:parentActivityName=".chatapponetone.StartActivity"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity android:name=".chatapponetone.MessageActivity" />
+        <activity
+            android:name=".chatapponetone.ResetPasswordActivity"
+            android:parentActivityName=".chatapponetone.LoginChatActivity"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <service
+            android:name=".chatapponetone.Notifications.MyFirebaseIdService"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+        <service
+            android:name=".chatapponetone.Notifications.MyFirebaseMessaging"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>
