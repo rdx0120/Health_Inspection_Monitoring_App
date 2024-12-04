@@ -104,4 +104,5 @@ The system is built around key entities:
 - **Akash Upadhyay**  
   [Email](mailto:akash.upadhyay@vit.edu.in)  
 
-Guided by: **Prof. Devendra Pandit**
+Guided by: **Prof. Devendra Pandit** [Email](mailto:devendra.pandit@vit.edu.in).
+
