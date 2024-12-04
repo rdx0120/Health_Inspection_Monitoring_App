@@ -1,0 +1,4 @@
+#Thu May 13 16:39:52 IST 2021
+base.0=F\:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
