@@ -1,0 +1,180 @@
+{
+  "project_info": {
+    "project_number": "3266692380",
+    "firebase_url": "https://still-crow-263216.firebaseio.com",
+    "project_id": "still-crow-263216",
+    "storage_bucket": "still-crow-263216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3266692380:android:fec767299026a70af466d9",
+        "android_client_info": {
+          "package_name": "com.app.sample.fchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3266692380-0cjrb16q1via2qr6okkogda62t57qfr6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.sample.fchat",
+            "certificate_hash": "5d672f914baa7338c5062fb8f91f7d2b472d9aa6"
+          }
+        },
+        {
+          "client_id": "3266692380-mgabpcdcgl8r103g97eaktle8hf26isg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByTeO3shKssc1GGnRfG1pmaI2TYKzFGJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3266692380-mgabpcdcgl8r103g97eaktle8hf26isg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3266692380:android:ffb88db06ac09c29f466d9",
+        "android_client_info": {
+          "package_name": "com.google.firebase.udacity.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3266692380-hrluhiq656k7n3cjgjjcnvi73uf3c44p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.udacity.friendlychat",
+            "certificate_hash": "5d672f914baa7338c5062fb8f91f7d2b472d9aa6"
+          }
+        },
+        {
+          "client_id": "3266692380-mgabpcdcgl8r103g97eaktle8hf26isg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByTeO3shKssc1GGnRfG1pmaI2TYKzFGJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3266692380-mgabpcdcgl8r103g97eaktle8hf26isg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3266692380:android:9f7acfe374932f92f466d9",
+        "android_client_info": {
+          "package_name": "com.saharsh.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3266692380-19ibla6p8imvqde59o2adg02071eu8sq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saharsh.chatapp",
+            "certificate_hash": "5d672f914baa7338c5062fb8f91f7d2b472d9aa6"
+          }
+        },
+        {
+          "client_id": "3266692380-mgabpcdcgl8r103g97eaktle8hf26isg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByTeO3shKssc1GGnRfG1pmaI2TYKzFGJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3266692380-mgabpcdcgl8r103g97eaktle8hf26isg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3266692380:android:695a1c0a1eb56018f466d9",
+        "android_client_info": {
+          "package_name": "com.vidya.chatapponetone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3266692380-mgabpcdcgl8r103g97eaktle8hf26isg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByTeO3shKssc1GGnRfG1pmaI2TYKzFGJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3266692380-mgabpcdcgl8r103g97eaktle8hf26isg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3266692380:android:222c81c859e4d2c4f466d9",
+        "android_client_info": {
+          "package_name": "com.vidya.navigationdrawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3266692380-mgabpcdcgl8r103g97eaktle8hf26isg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByTeO3shKssc1GGnRfG1pmaI2TYKzFGJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3266692380-mgabpcdcgl8r103g97eaktle8hf26isg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
