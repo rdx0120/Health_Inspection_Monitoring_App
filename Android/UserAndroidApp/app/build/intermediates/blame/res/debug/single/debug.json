@@ -1,0 +1,894 @@
+[
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_users.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\fragment_users.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_profile.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\activity_view_profile.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_next.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_next.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_main_appointment.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\card_main_appointment.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_chevron_right.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_chevron_right.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_profile_img.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\profile_img.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_edit.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_lock.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_lock.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_vector_chatapp.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_vector_chatapp.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register_chat.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\activity_register_chat.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_search_bg.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\search_bg.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_signup_vector.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_signup_vector.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_vector_chatapp.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_vector_chatapp.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_next.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_next.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_fragment.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\camera_fragment.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_login_vector.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_login_vector.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_forgot_password.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_forgot_password.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_chevron_right.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_chevron_right.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_login.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_login.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_login_data_activity.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\login_data_activity.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_es_image.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\es_image.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_vector_chatapp.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_vector_chatapp.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_chevron_right.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_chevron_right.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_complaint.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\drawable-v21\\complaint.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_logout.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\drawable-v21\\logout.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_vector_chatapp.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_vector_chatapp.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_edit.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_send.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_send.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_chevron_right.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_chevron_right.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v21_operator.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi-v21\\operator.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_o_t_pvalidation_user.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\activity_o_t_pvalidation_user.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_cool_background.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_cool_background.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_plus.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_plus.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_doctorsdetails_view.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\activity_doctorsdetails_view.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_profile_img.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\profile_img.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_next.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_next.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_profile_img.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\profile_img.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register_user.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\activity_register_user.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_picture.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_picture.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_picture.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_picture.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v21_operator.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi-v21\\operator.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_login.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_login.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cool_background.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_cool_background.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_es_image.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\es_image.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_login_vector.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_login_vector.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_arrow_img.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_arrow_img.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_search_bg.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\search_bg.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_chat.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\activity_main_chat.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_login_vector.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_login_vector.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_profile_img.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\profile_img.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittext_bg.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\drawable\\edittext_bg.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_next.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_next.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_lock.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_lock.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_lock.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_lock.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_plus.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_plus.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo.jpg.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\mipmap-hdpi\\logo.jpg"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_edit.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_edit.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_signup_vector.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_signup_vector.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_es_image.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\es_image.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_arrow_img.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_img.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_send.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_send.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_login.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_login.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_forgot_password.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_forgot_password.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_signup_vector.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_signup_vector.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_plus.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_plus.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_edit.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_next.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_next.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.jpg.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\drawable\\logo.jpg"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_login.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_login.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_forgot_password.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_forgot_password.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_arrow_img.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_arrow_img.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow_img.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_arrow_img.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_forgot_password.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_forgot_password.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_problem_activity.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\user_problem_activity.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_message.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_picture.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_picture.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_chevron_right.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_chevron_right.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reset_password.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\activity_reset_password.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_picture.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_picture.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_arrow_img.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_arrow_img.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_forgot_password.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_forgot_password.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_left.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\drawable\\background_left.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_search_bg.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\search_bg.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_progressdialog.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\progressdialog.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_main_1.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\card_main_1.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_appointment.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\drawable-v21\\appointment.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item_right.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\chat_item_right.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_plus.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_plus.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_plus.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_plus.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_search_bg.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\search_bg.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_forgot_password.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_forgot_password.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_lock.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_scrolling.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\activity_scrolling.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_share_white_24dp.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\drawable\\ic_share_white_24dp.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_edit.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_edit.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_cool_background.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_cool_background.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_send.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_send.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_signup_vector.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_signup_vector.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_registration.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\registration.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_login.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_login.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_skyblue.jpg.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\drawable\\skyblue.jpg"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_doctor.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\drawable-v21\\doctor.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_picture.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_picture.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_next.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_next.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_login_vector.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_login_vector.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_arrow_img.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_arrow_img.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slideshow.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login_chat.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\activity_login_chat.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_search_bg.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\search_bg.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_download_data_of_user_fragment.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\download_data_of_user_fragment.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_edittext.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\drawable\\rounded_edittext.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_home.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\drawable-v21\\home.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_edit.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_edit.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_next.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_next.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_es_image.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\es_image.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_login.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_login.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_login_vector.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_login_vector.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_fragment.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\main_fragment.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_picture.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_picture.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_bar_layout.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\bar_layout.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_picture.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_picture.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_operator.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\operator.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_chevron_right.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_chevron_right.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_login_vector.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_login_vector.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_bg.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\search_bg.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item_left.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\chat_item_left.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_bg.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_es_image.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\es_image.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_userproblem.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\main_userproblem.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_profile_img.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\profile_img.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v21_operator.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi-v21\\operator.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_lock.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_profile_img.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\profile_img.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_item.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\user_item.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_profile_img.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\profile_img.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_login.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_login.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_signup_vector.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_signup_vector.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_testing_check.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\activity_testing_check.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_edit.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_edit.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_dialog.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\drawable\\rounded_dialog.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_vector_chatapp.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_vector_chatapp.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_chevron_right.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_chevron_right.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v21_operator.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi-v21\\operator.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_lock.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_specialist.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\drawable-v21\\specialist.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_main_docotrview.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\card_main_docotrview.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_search_bg.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\search_bg.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_vector_chatapp.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_vector_chatapp.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_share_black_24dp.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\drawable\\ic_share_black_24dp.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cool_background.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_cool_background.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_image_view.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\activity_image_view.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_signup_vector.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_signup_vector.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cool_background.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_cool_background.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_cardveiw_item_book.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\cardveiw_item_book.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_plus.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_plus.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_login_vector.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_login_vector.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forgot_password_emailreset.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\activity_forgot_password_emailreset.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_lock.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_lock.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cool_background.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_cool_background.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_password_reset.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\activity_password_reset.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_send.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_send.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_signup_vector.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_signup_vector.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_right.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\drawable\\background_right.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_appointement.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\activity_appointement.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_download.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\drawable-v21\\download.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_send.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_send.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_review_the_app_fragment.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\review_the_app_fragment.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_send.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_send.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_material_design_3.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\drawable\\material_design_3.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_userproblem_fragment.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\userproblem_fragment.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_start.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_main_downloadimage.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\card_main_downloadimage.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_forgot_password.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_forgot_password.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_es_image.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\es_image.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_scrolling.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\content_scrolling.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_plus.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_plus.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v21_operator.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi-v21\\operator.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_empty_state.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\empty_state.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_arrow_img.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_arrow_img.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v21_operator.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi-v21\\operator.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chats.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\fragment_chats.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_send.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_send.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_es_image.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\es_image.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_fragment.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\chat_fragment.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_vector_chatapp.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_vector_chatapp.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallery.xml.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cool_background.png.flat",
+        "source": "F:\\FromD\\2020-2021 Projects\\Practoapp\\UserAndroidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_cool_background.png"
+    }
+]
