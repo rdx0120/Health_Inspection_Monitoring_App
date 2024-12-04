@@ -1,0 +1,365 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.vidya.navigationdrawer"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:5:5-67
+11-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+12-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:6:5-71
+12-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:6:22-68
+13    <uses-permission android:name="android.permission.CALL_PHONE" />
+13-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:7:5-69
+13-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:7:22-66
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:8:5-81
+14-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:8:22-78
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:9:5-80
+15-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:9:22-77
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:5:5-67
+16-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:5:22-64
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\34b7a40fa47dac0a75c513539c0e8a60\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:23:5-79
+17-->[com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\34b7a40fa47dac0a75c513539c0e8a60\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:23:22-76
+18    <uses-permission android:name="android.permission.WAKE_LOCK" />
+18-->[com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\34b7a40fa47dac0a75c513539c0e8a60\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:24:5-68
+18-->[com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\34b7a40fa47dac0a75c513539c0e8a60\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:24:22-65
+19    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+19-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\f30b2404fd862bb6122fc47cbd40052e\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:26:5-110
+19-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\f30b2404fd862bb6122fc47cbd40052e\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:26:22-107
+20    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+20-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\1c0df9d6667f81b57318d2c9a1ab4c21\jetified-firebase-iid-17.0.1\AndroidManifest.xml:26:5-82
+20-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\1c0df9d6667f81b57318d2c9a1ab4c21\jetified-firebase-iid-17.0.1\AndroidManifest.xml:26:22-79
+21
+22    <application
+22-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:12:5-78:19
+23        android:allowBackup="true"
+23-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:13:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.1.0] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\ce51c6a809f8f8d5d8f622a6f08dfcac\core-1.1.0\AndroidManifest.xml:24:18-86
+25        android:debuggable="true"
+26        android:icon="@mipmap/ic_launcher"
+26-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:14:9-43
+27        android:label="@string/app_name"
+27-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:15:9-41
+28        android:roundIcon="@mipmap/ic_launcher_round"
+28-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:16:9-54
+29        android:supportsRtl="true"
+29-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:17:9-35
+30        android:testOnly="true"
+31        android:theme="@style/AppTheme"
+31-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:18:9-40
+32        android:usesCleartextTraffic="true" >
+32-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:19:9-44
+33        <activity android:name="com.vidya.navigationdrawer.OTPvalidationUser" />
+33-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:20:9-64
+33-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:20:19-52
+34        <activity android:name="com.vidya.navigationdrawer.ImageViewActivity" />
+34-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:21:9-55
+34-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:21:19-52
+35        <activity android:name="com.vidya.navigationdrawer.DoctorsdetailsView" />
+35-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:22:9-56
+35-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:22:19-53
+36        <activity android:name="com.vidya.navigationdrawer.ui.login.LoginData" />
+36-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:23:9-56
+36-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:23:19-53
+37        <activity android:name="com.vidya.navigationdrawer.PasswordReset" />
+37-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:24:9-51
+37-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:24:19-48
+38        <activity android:name="com.vidya.navigationdrawer.ForgotPasswordEmailreset" />
+38-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:25:9-62
+38-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:25:19-59
+39
+40        <uses-library
+40-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:27:9-29:40
+41            android:name="org.apache.http.legacy"
+41-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:28:13-50
+42            android:required="false" />
+42-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:29:13-37
+43
+44        <activity android:name="com.vidya.navigationdrawer.MainActivity" />
+44-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:31:9-50
+44-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:31:19-47
+45        <activity android:name="com.vidya.navigationdrawer.TestingActivity" />
+45-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:32:9-53
+45-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:32:19-50
+46        <activity android:name="com.vidya.navigationdrawer.ScrollingActivity" />
+46-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:33:9-55
+46-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:33:19-52
+47        <activity android:name="com.vidya.navigationdrawer.RegisterUser" />
+47-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:34:9-50
+47-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:34:19-47
+48        <activity android:name="com.vidya.navigationdrawer.AppointementActivity" />
+48-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:35:9-58
+48-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:35:19-55
+49        <activity
+49-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:36:9-45:20
+50            android:name="com.vidya.navigationdrawer.SplashActivity"
+50-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:37:13-43
+51            android:label="@string/app_name"
+51-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:38:13-45
+52            android:theme="@style/AppTheme.NoActionBar" >
+52-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:39:13-56
+53            <intent-filter>
+53-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:40:13-44:29
+54                <action android:name="android.intent.action.MAIN" />
+54-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:41:17-69
+54-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:41:25-66
+55
+56                <category android:name="android.intent.category.LAUNCHER" />
+56-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:43:17-77
+56-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:43:27-74
+57            </intent-filter>
+58        </activity>
+59        <activity android:name="com.vidya.navigationdrawer.chatapponetone.StartActivity" />
+59-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:46:9-66
+59-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:46:19-63
+60        <activity
+60-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:47:9-50:63
+61            android:name="com.vidya.navigationdrawer.chatapponetone.RegisterChatActivity"
+61-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:48:13-64
+62            android:parentActivityName="com.vidya.navigationdrawer.chatapponetone.StartActivity"
+62-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:49:13-71
+63            android:windowSoftInputMode="stateAlwaysHidden" />
+63-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:50:13-60
+64        <activity android:name="com.vidya.navigationdrawer.chatapponetone.MainChatActivity" />
+64-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:51:9-69
+64-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:51:19-66
+65        <activity
+65-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:52:9-55:63
+66            android:name="com.vidya.navigationdrawer.chatapponetone.LoginChatActivity"
+66-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:53:13-61
+67            android:parentActivityName="com.vidya.navigationdrawer.chatapponetone.StartActivity"
+67-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:54:13-71
+68            android:windowSoftInputMode="stateAlwaysHidden" />
+68-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:55:13-60
+69        <activity android:name="com.vidya.navigationdrawer.chatapponetone.MessageActivity" />
+69-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:56:9-68
+69-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:56:19-65
+70        <activity
+70-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:57:9-60:63
+71            android:name="com.vidya.navigationdrawer.chatapponetone.ResetPasswordActivity"
+71-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:58:13-65
+72            android:parentActivityName="com.vidya.navigationdrawer.chatapponetone.LoginChatActivity"
+72-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:59:13-75
+73            android:windowSoftInputMode="stateAlwaysHidden" />
+73-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:60:13-60
+74
+75        <service
+75-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:62:9-69:19
+76            android:name="com.vidya.navigationdrawer.chatapponetone.Notifications.MyFirebaseIdService"
+76-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:63:13-77
+77            android:enabled="true"
+77-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:64:13-35
+78            android:exported="true" >
+78-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:65:13-36
+79            <intent-filter>
+79-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:66:13-68:29
+80                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+80-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:67:17-80
+80-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:67:25-77
+81            </intent-filter>
+82        </service>
+83        <service
+83-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:70:9-77:19
+84            android:name="com.vidya.navigationdrawer.chatapponetone.Notifications.MyFirebaseMessaging"
+84-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:71:13-77
+85            android:enabled="true"
+85-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:72:13-35
+86            android:exported="true" >
+86-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:73:13-36
+87            <intent-filter>
+87-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:74:13-76:29
+88                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+88-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:75:17-78
+88-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:75:25-75
+89            </intent-filter>
+90        </service>
+91
+92        <activity
+92-->[com.google.firebase:firebase-auth:16.0.2] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\50f9cb67efff798fe77189dcf06b04f6\jetified-firebase-auth-16.0.2\AndroidManifest.xml:23:9-29:75
+93            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+93-->[com.google.firebase:firebase-auth:16.0.2] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\50f9cb67efff798fe77189dcf06b04f6\jetified-firebase-auth-16.0.2\AndroidManifest.xml:24:13-85
+94            android:excludeFromRecents="true"
+94-->[com.google.firebase:firebase-auth:16.0.2] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\50f9cb67efff798fe77189dcf06b04f6\jetified-firebase-auth-16.0.2\AndroidManifest.xml:25:13-46
+95            android:exported="true"
+95-->[com.google.firebase:firebase-auth:16.0.2] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\50f9cb67efff798fe77189dcf06b04f6\jetified-firebase-auth-16.0.2\AndroidManifest.xml:26:13-36
+96            android:launchMode="singleInstance"
+96-->[com.google.firebase:firebase-auth:16.0.2] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\50f9cb67efff798fe77189dcf06b04f6\jetified-firebase-auth-16.0.2\AndroidManifest.xml:27:13-48
+97            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+97-->[com.google.firebase:firebase-auth:16.0.2] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\50f9cb67efff798fe77189dcf06b04f6\jetified-firebase-auth-16.0.2\AndroidManifest.xml:28:13-102
+98            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+98-->[com.google.firebase:firebase-auth:16.0.2] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\50f9cb67efff798fe77189dcf06b04f6\jetified-firebase-auth-16.0.2\AndroidManifest.xml:29:13-72
+99
+100        <service
+100-->[com.google.firebase:firebase-auth:16.0.2] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\50f9cb67efff798fe77189dcf06b04f6\jetified-firebase-auth-16.0.2\AndroidManifest.xml:31:9-35:19
+101            android:name="com.google.firebase.components.ComponentDiscoveryService"
+101-->[com.google.firebase:firebase-auth:16.0.2] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\50f9cb67efff798fe77189dcf06b04f6\jetified-firebase-auth-16.0.2\AndroidManifest.xml:31:18-89
+102            android:exported="false" >
+102-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\1c0df9d6667f81b57318d2c9a1ab4c21\jetified-firebase-iid-17.0.1\AndroidManifest.xml:31:13-37
+103            <meta-data
+103-->[com.google.firebase:firebase-auth:16.0.2] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\50f9cb67efff798fe77189dcf06b04f6\jetified-firebase-auth-16.0.2\AndroidManifest.xml:32:13-34:85
+104                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+104-->[com.google.firebase:firebase-auth:16.0.2] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\50f9cb67efff798fe77189dcf06b04f6\jetified-firebase-auth-16.0.2\AndroidManifest.xml:33:17-109
+105                android:value="com.google.firebase.components.ComponentRegistrar" />
+105-->[com.google.firebase:firebase-auth:16.0.2] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\50f9cb67efff798fe77189dcf06b04f6\jetified-firebase-auth-16.0.2\AndroidManifest.xml:34:17-82
+106            <meta-data
+106-->[com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\34b7a40fa47dac0a75c513539c0e8a60\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:28:13-30:85
+107                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+107-->[com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\34b7a40fa47dac0a75c513539c0e8a60\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:29:17-139
+108                android:value="com.google.firebase.components.ComponentRegistrar" />
+108-->[com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\34b7a40fa47dac0a75c513539c0e8a60\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:30:17-82
+109            <meta-data
+109-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\1c0df9d6667f81b57318d2c9a1ab4c21\jetified-firebase-iid-17.0.1\AndroidManifest.xml:32:13-34:85
+110                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+110-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\1c0df9d6667f81b57318d2c9a1ab4c21\jetified-firebase-iid-17.0.1\AndroidManifest.xml:33:17-96
+111                android:value="com.google.firebase.components.ComponentRegistrar" />
+111-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\1c0df9d6667f81b57318d2c9a1ab4c21\jetified-firebase-iid-17.0.1\AndroidManifest.xml:34:17-82
+112        </service>
+113        <!--
+114             FirebaseMessagingService performs security checks at runtime,
+115             no need for explicit permissions despite exported="true"
+116        -->
+117        <service
+117-->[com.google.firebase:firebase-messaging:17.3.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\2fd58db2a0be1d74fac4cac31d6ac863\jetified-firebase-messaging-17.3.1\AndroidManifest.xml:28:9-34:19
+118            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+118-->[com.google.firebase:firebase-messaging:17.3.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\2fd58db2a0be1d74fac4cac31d6ac863\jetified-firebase-messaging-17.3.1\AndroidManifest.xml:29:13-82
+119            android:exported="true" >
+119-->[com.google.firebase:firebase-messaging:17.3.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\2fd58db2a0be1d74fac4cac31d6ac863\jetified-firebase-messaging-17.3.1\AndroidManifest.xml:30:13-36
+120            <intent-filter android:priority="-500" >
+120-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:74:13-76:29
+121                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+121-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:75:17-78
+121-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:75:25-75
+122            </intent-filter>
+123        </service>
+124
+125        <receiver
+125-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\f30b2404fd862bb6122fc47cbd40052e\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:29:9-33:20
+126            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+126-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\f30b2404fd862bb6122fc47cbd40052e\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:30:13-85
+127            android:enabled="true"
+127-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\f30b2404fd862bb6122fc47cbd40052e\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:31:13-35
+128            android:exported="false" >
+128-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\f30b2404fd862bb6122fc47cbd40052e\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:32:13-37
+129        </receiver>
+130        <receiver
+130-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\f30b2404fd862bb6122fc47cbd40052e\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:34:9-42:20
+131            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+131-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\f30b2404fd862bb6122fc47cbd40052e\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:35:13-100
+132            android:enabled="true"
+132-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\f30b2404fd862bb6122fc47cbd40052e\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:36:13-35
+133            android:exported="true"
+133-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\f30b2404fd862bb6122fc47cbd40052e\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:37:13-36
+134            android:permission="android.permission.INSTALL_PACKAGES" >
+134-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\f30b2404fd862bb6122fc47cbd40052e\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:38:13-69
+135            <intent-filter>
+135-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\f30b2404fd862bb6122fc47cbd40052e\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:39:13-41:29
+136                <action android:name="com.android.vending.INSTALL_REFERRER" />
+136-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\f30b2404fd862bb6122fc47cbd40052e\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:40:17-79
+136-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\f30b2404fd862bb6122fc47cbd40052e\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:40:25-76
+137            </intent-filter>
+138        </receiver>
+139
+140        <service
+140-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\f30b2404fd862bb6122fc47cbd40052e\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:44:9-47:40
+141            android:name="com.google.android.gms.measurement.AppMeasurementService"
+141-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\f30b2404fd862bb6122fc47cbd40052e\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:45:13-84
+142            android:enabled="true"
+142-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\f30b2404fd862bb6122fc47cbd40052e\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:46:13-35
+143            android:exported="false" />
+143-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\f30b2404fd862bb6122fc47cbd40052e\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:47:13-37
+144        <service
+144-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\f30b2404fd862bb6122fc47cbd40052e\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:48:9-52:72
+145            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+145-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\f30b2404fd862bb6122fc47cbd40052e\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:49:13-87
+146            android:enabled="true"
+146-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\f30b2404fd862bb6122fc47cbd40052e\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:50:13-35
+147            android:exported="false"
+147-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\f30b2404fd862bb6122fc47cbd40052e\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:51:13-37
+148            android:permission="android.permission.BIND_JOB_SERVICE" />
+148-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\f30b2404fd862bb6122fc47cbd40052e\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:52:13-69
+149
+150        <receiver
+150-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\1c0df9d6667f81b57318d2c9a1ab4c21\jetified-firebase-iid-17.0.1\AndroidManifest.xml:37:9-44:20
+151            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+151-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\1c0df9d6667f81b57318d2c9a1ab4c21\jetified-firebase-iid-17.0.1\AndroidManifest.xml:38:13-78
+152            android:exported="true"
+152-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\1c0df9d6667f81b57318d2c9a1ab4c21\jetified-firebase-iid-17.0.1\AndroidManifest.xml:39:13-36
+153            android:permission="com.google.android.c2dm.permission.SEND" >
+153-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\1c0df9d6667f81b57318d2c9a1ab4c21\jetified-firebase-iid-17.0.1\AndroidManifest.xml:40:13-73
+154            <intent-filter>
+154-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\1c0df9d6667f81b57318d2c9a1ab4c21\jetified-firebase-iid-17.0.1\AndroidManifest.xml:41:13-43:29
+155                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+155-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\1c0df9d6667f81b57318d2c9a1ab4c21\jetified-firebase-iid-17.0.1\AndroidManifest.xml:42:17-81
+155-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\1c0df9d6667f81b57318d2c9a1ab4c21\jetified-firebase-iid-17.0.1\AndroidManifest.xml:42:25-78
+156            </intent-filter>
+157        </receiver>
+158        <!--
+159             FirebaseInstanceIdService performs security checks at runtime,
+160             no need for explicit permissions despite exported="true"
+161        -->
+162        <service
+162-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\1c0df9d6667f81b57318d2c9a1ab4c21\jetified-firebase-iid-17.0.1\AndroidManifest.xml:50:9-56:19
+163            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+163-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\1c0df9d6667f81b57318d2c9a1ab4c21\jetified-firebase-iid-17.0.1\AndroidManifest.xml:51:13-77
+164            android:exported="true" >
+164-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\1c0df9d6667f81b57318d2c9a1ab4c21\jetified-firebase-iid-17.0.1\AndroidManifest.xml:52:13-36
+165            <intent-filter android:priority="-500" >
+165-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:66:13-68:29
+166                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+166-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:67:17-80
+166-->F:\FromD\2020-2021 Projects\Practoapp\UserAndroidApp\app\src\main\AndroidManifest.xml:67:25-77
+167            </intent-filter>
+168        </service>
+169
+170        <activity
+170-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\6c9b38b01a43d0e4cdaf30f311734838\jetified-play-services-base-15.0.1\AndroidManifest.xml:23:9-26:75
+171            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+171-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\6c9b38b01a43d0e4cdaf30f311734838\jetified-play-services-base-15.0.1\AndroidManifest.xml:24:13-79
+172            android:exported="false"
+172-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\6c9b38b01a43d0e4cdaf30f311734838\jetified-play-services-base-15.0.1\AndroidManifest.xml:25:13-37
+173            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+173-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\6c9b38b01a43d0e4cdaf30f311734838\jetified-play-services-base-15.0.1\AndroidManifest.xml:26:13-72
+174
+175        <provider
+175-->[com.google.firebase:firebase-common:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\ac96fc476866a87d4ee011e2cedfc27d\jetified-firebase-common-16.0.1\AndroidManifest.xml:10:9-14:39
+176            android:name="com.google.firebase.provider.FirebaseInitProvider"
+176-->[com.google.firebase:firebase-common:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\ac96fc476866a87d4ee011e2cedfc27d\jetified-firebase-common-16.0.1\AndroidManifest.xml:11:13-77
+177            android:authorities="com.vidya.navigationdrawer.firebaseinitprovider"
+177-->[com.google.firebase:firebase-common:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\ac96fc476866a87d4ee011e2cedfc27d\jetified-firebase-common-16.0.1\AndroidManifest.xml:12:13-72
+178            android:exported="false"
+178-->[com.google.firebase:firebase-common:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\ac96fc476866a87d4ee011e2cedfc27d\jetified-firebase-common-16.0.1\AndroidManifest.xml:13:13-37
+179            android:initOrder="100" />
+179-->[com.google.firebase:firebase-common:16.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\ac96fc476866a87d4ee011e2cedfc27d\jetified-firebase-common-16.0.1\AndroidManifest.xml:14:13-36
+180
+181        <meta-data
+181-->[com.google.android.gms:play-services-basement:15.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\078da0130e650ab03fb36414244f9161\jetified-play-services-basement-15.0.1\AndroidManifest.xml:23:9-25:69
+182            android:name="com.google.android.gms.version"
+182-->[com.google.android.gms:play-services-basement:15.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\078da0130e650ab03fb36414244f9161\jetified-play-services-basement-15.0.1\AndroidManifest.xml:24:13-58
+183            android:value="@integer/google_play_services_version" />
+183-->[com.google.android.gms:play-services-basement:15.0.1] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\078da0130e650ab03fb36414244f9161\jetified-play-services-basement-15.0.1\AndroidManifest.xml:25:13-66
+184
+185        <provider
+185-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\12e79eaa23278806fa243954c3491fd2\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+186            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+186-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\12e79eaa23278806fa243954c3491fd2\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+187            android:authorities="com.vidya.navigationdrawer.lifecycle-process"
+187-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\12e79eaa23278806fa243954c3491fd2\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+188            android:exported="false"
+188-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\12e79eaa23278806fa243954c3491fd2\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+189            android:multiprocess="true" />
+189-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Studio Pc-1\.gradle\caches\transforms-2\files-2.1\12e79eaa23278806fa243954c3491fd2\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+190    </application>
+191
+192</manifest>
