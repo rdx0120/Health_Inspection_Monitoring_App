@@ -11,7 +11,6 @@ A health monitoring and inspection mobile application designed to improve commun
 5. [Usage](#usage)
 6. [System Design](#system-design)
 7. [Contributors](#contributors)
-8. [License](#license)
 
 ---
 
